@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1665045965966,409,RootPage,200,OK,rahul Website Load Test 1-1,text,true,,67318,127,5,5,https://rahulshettyacademy.com/,353,0,223
+1665045966023,365,RootPage,200,OK,rahul Website Load Test 1-2,text,true,,67318,127,5,5,https://rahulshettyacademy.com/,296,0,166
+1665045966123,252,RootPage,200,OK,rahul Website Load Test 1-3,text,true,,67318,127,5,5,https://rahulshettyacademy.com/,204,0,105
+1665045966223,474,RootPage,200,OK,rahul Website Load Test 1-4,text,true,,67318,127,5,5,https://rahulshettyacademy.com/,378,0,124
+1665045966322,560,RootPage,200,OK,rahul Website Load Test 1-5,text,true,,67318,127,6,6,https://rahulshettyacademy.com/,435,0,245
+1665045966518,486,RootPage,200,OK,rahul Website Load Test 1-7,text,true,,67318,127,5,5,https://rahulshettyacademy.com/,403,0,185
+1665045966618,502,RootPage,200,OK,rahul Website Load Test 1-8,text,true,,67318,127,4,4,https://rahulshettyacademy.com/,386,0,186
+1665045966721,434,RootPage,200,OK,rahul Website Load Test 1-9,text,true,,67318,127,3,3,https://rahulshettyacademy.com/,340,0,166
+1665045966819,415,RootPage,200,OK,rahul Website Load Test 1-10,text,true,,67318,127,2,2,https://rahulshettyacademy.com/,336,0,178
+1665045966420,1010,RootPage,200,OK,rahul Website Load Test 1-6,text,true,,67318,127,1,1,https://rahulshettyacademy.com/,501,0,283
